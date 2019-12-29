@@ -1,0 +1,3 @@
+[submodule "hassio-remote-backup"]
+	path = hassio-remote-backup
+	url = https://github.com/jleeuwes/hassio-remote-backup
